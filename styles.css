@@ -1,0 +1,8 @@
+.baslik1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    padding: 20px 10px 30px 40px;
+    border-top: 10px solid red;
+    border-bottom: 6px dashed blue;
+}
